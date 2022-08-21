@@ -9,4 +9,4 @@ Information about how to connect to each game using SSH, is provided in the top 
 
 https://overthewire.org/wargames/
 
-![Overthewire.org](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/2022-08-21%2016.50.27%20overthewire.org%20a4c45a7a0c5d.png)
+![Overthewireorg](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/overthewire.png)
