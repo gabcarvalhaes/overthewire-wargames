@@ -13,5 +13,3 @@ But we can also login using sshpass for the password in a single command line:
 ```
 
 This way, with only one line, we can login to the server;
-
-![image-20220821155220241](C:\Users\gabca\AppData\Roaming\Typora\typora-user-images\image-20220821155220241.png)
