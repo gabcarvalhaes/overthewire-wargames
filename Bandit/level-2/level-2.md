@@ -10,7 +10,9 @@ The password for the next level is stored in a file called **-** located in the 
 
 
 When we list the content of the server now, it shows a file named "-". It is a dashed filename. We can't simply use "cat -" to open the file. We need to use an operator:
-![[Pasted image 20220821162706.png]]
+
+![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-2/screenshot-cat-level2.png)
 
 And then, we can login to bandit2:
-![[Pasted image 20220821162852.png]]
+
+![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-2/screenshot-level2-ssh.png)
