@@ -12,4 +12,6 @@ But we can also login using sshpass for the password in a single command line:
 > sshpass -p "bandit0" ssh bandit0@bandit.labs.overthewire.org -p2220
 ```
 
-This way, with only one line, we can login to the server;
+This way, with only one line, we can login to the server:
+
+![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-0/screenshot-lvl-0-ssh.png)

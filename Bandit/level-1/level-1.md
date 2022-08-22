@@ -9,7 +9,7 @@ The password for the next level is stored in a file called **readme** located in
 [ls](https://man7.org/linux/man-pages/man1/ls.1.html) , [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) , [cat](https://man7.org/linux/man-pages/man1/cat.1.html) , [file](https://man7.org/linux/man-pages/man1/file.1.html) , [du](https://man7.org/linux/man-pages/man1/du.1.html) , [find](https://man7.org/linux/man-pages/man1/find.1.html)
 
 Using the ls command, we can find a file named "readme". After that, we can use the command cat to see its content:
-![[Pasted image 20220821155354.png]]
+![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-1/screenshot-cat-readme.png)
 
 Then, we can login to the next level by login in the server again with the user bandit1:
-![[Pasted image 20220821161843.png]]
+![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-1/screenshot-lvl1-ssh.png)
