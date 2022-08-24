@@ -10,9 +10,9 @@ The password for the next level is stored in the only human-readable file in the
 
 When we login to the user bandit4, we can list the contents and see that there is also a direcotory named "inhere". Inside, there are 9 files, but only 1 of them has a readable password text:
 
-![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-4/screenshot-password-bandit5.png)
+![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-5/screenshot-password-bandit5.png)
 
 Now, we can login to user bandit5:
 
-![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-4/screenshot-ssh-bandit5.png)
+![image](https://github.com/gabcarvalhaes/overthewire-wargames/blob/master/Bandit/level-5/screenshot-ssh-bandit5.png)
 
